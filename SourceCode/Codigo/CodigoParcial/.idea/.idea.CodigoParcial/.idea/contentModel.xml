@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\renej\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\renej\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CodigoParcial.-1744409643.00" t="ExcludeRecursive" />
+    <e p="C:\Users\renej\Desktop\POO\RGCC_00001318_2EP\SourceCode\Codigo\CodigoParcial" t="IncludeFlat">
+      <e p="CodigoParcial" t="IncludeRecursive">
+        <e p="Address.cs" t="Include" />
+        <e p="Address.Designer.cs" t="Include" />
+        <e p="Administrator.cs" t="Include" />
+        <e p="Administrator.Designer.cs" t="Include" />
+        <e p="Administrator.resx" t="Include" />
+        <e p="AdminOrders.cs" t="Include" />
+        <e p="AdminOrders.Designer.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Business.cs" t="Include" />
+        <e p="Business.Designer.cs" t="Include" />
+        <e p="BusinessAdmin.cs" t="Include" />
+        <e p="BusinessAdmin.Designer.cs" t="Include" />
+        <e p="CodigoParcial.csproj" t="IncludeRecursive" />
+        <e p="ConnectionDB.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Negocios.cs" t="Include" />
+        <e p="NormalUser.cs" t="Include" />
+        <e p="NormalUser.Designer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Productos.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="UserOrders.cs" t="Include" />
+        <e p="UserOrders.Designer.cs" t="Include" />
+        <e p="Users.cs" t="Include" />
+        <e p="Users.Designer.cs" t="Include" />
+        <e p="Users.resx" t="Include" />
+        <e p="Usuario.cs" t="Include" />
+        <e p="UsuarioDAO1.cs" t="Include" />
+      </e>
+      <e p="CodigoParcial.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
